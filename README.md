@@ -11,7 +11,7 @@
 Hello team, this is documentation about Hijra backoffice project.
 
 ## Prerequisites
-What things you need to install the software and how to install them. In this case you must have Node Js and Volta, then you should request env dev/staging then copy value that env to your local env. Please chat in channel `#hijra-frontend` to get .env for development and staging 
+What things you need to install the software and how to install them. In this case you must have Node Js and Volta, then you should request env dev/staging then copy value that env to your local env. Please ask in channel `#hijra-frontend` to get .env for development and staging 
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. To develop salman backoffice in locally, please follow this step below.
@@ -42,13 +42,10 @@ Please read our [guideline](Contributing.md) for details on our code of conduct,
 
 ## Deployment
 The deployment process at Salman Backoffice can be divided into several parts including
-- Deploy Preview Use Caprover
-  Read the guideline
+- Deploy Preview Use Github Actions: [Read the guideline](https://alamisharia.atlassian.net/wiki/spaces/ENG/pages/125501655/Deploy+Preview)
+- Deployment to Caprover Server: [Read the guidleine](https://alamisharia.atlassian.net/wiki/spaces/ENG/pages/125501655/Deploy+Preview)
 - Deployment To Development Server
 - Deployment to Staging Server
-
-* Via github actions you can read in this [document](https://alamisharia.atlassian.net/wiki/spaces/ENG/pages/125501655/Deploy+Preview)
-* Via manual you can read in this [document](https://alamisharia.atlassian.net/wiki/spaces/ENG/pages/108068941/Deployment+Use+Caprover)
 
 ## Release
 Please read our guideline for release salman backoffice
