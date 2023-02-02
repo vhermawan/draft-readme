@@ -38,7 +38,7 @@ yarn dev
 Finally you can access http://localhost:3031 to see salman backoffice
 
 ## Contributing
-Please read Contributin.md for details on our code of conduct, and the process for submitting pull requests to this repository.
+Please read our [guideline](Contributing.md) for details on our code of conduct, and the process for submitting pull requests to this repository.
 
 ## Deployment
 
