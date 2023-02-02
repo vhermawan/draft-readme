@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them. In this case you should request env dev/staging then copy value that env to your local env.
 
 ```
-Copy .env.example to .env
+copy .env.example to .env
 ```
 
 ### Installing
