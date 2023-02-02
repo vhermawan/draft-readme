@@ -6,7 +6,7 @@ Hello team, this is documentation about Hijra backoffice project.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-What things you need to install the software and how to install them. In this case you should request env dev/staging then copy value that env to your local env.
+What things you need to install the software and how to install them. In this case you must have Node Js and Volta, then you should request env dev/staging then copy value that env to your local env.
 
 ```
 copy .env.example to .env
@@ -20,6 +20,13 @@ $ yarn install or yarn
 $ copy .env.example to .env
 $ yarn dev
 ```
+
+## Contributing
+When contributing to this repository, please first discuss the change you wish to make via issue,
+email, or any other method with the owners of this repository before making a change. 
+
+Please note we have a code of conduct, please follow it in all your interactions with the project.
+
 
 ## Deployment
 
