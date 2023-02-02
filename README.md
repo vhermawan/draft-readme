@@ -41,8 +41,11 @@ Finally you can access http://localhost:3031 to see salman backoffice
 Please read our [guideline](Contributing.md) for details on our code of conduct, and the process for submitting pull requests to this repository.
 
 ## Deployment
-
-Deployment in salman backoffice we use via github actions or can do manually with caprover.
+The deployment process at Salman Backoffice can be divided into several parts including
+- Deploy Preview Use Caprover
+  Read the guideline
+- Deployment To Development Server
+- Deployment to Staging Server
 
 * Via github actions you can read in this [document](https://alamisharia.atlassian.net/wiki/spaces/ENG/pages/125501655/Deploy+Preview)
 * Via manual you can read in this [document](https://alamisharia.atlassian.net/wiki/spaces/ENG/pages/108068941/Deployment+Use+Caprover)
