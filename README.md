@@ -8,8 +8,7 @@
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
-[![CI](https://github.com/alami-group/hijra-backoffice/actions/workflows/test.yml.svg)](https://github.com/alami-group/hijra-backoffice/actions/workflows/test.yml) 
-[![Deploy](https://github.com/alami-group/hijra-backoffice/actions/workflows/build-release-production.yml/badge.svg)](https://github.com/alami-group/hijra-backoffice/actions/workflows/build-release-production.yml)
+[![CI](https://github.com/alami-group/hijra-backoffice/actions/workflows/test.yml.svg)](https://github.com/alami-group/hijra-backoffice/actions/workflows/test.yml) [![Deploy](https://github.com/alami-group/hijra-backoffice/actions/workflows/build-release-production.yml/badge.svg)](https://github.com/alami-group/hijra-backoffice/actions/workflows/build-release-production.yml)
 
 Hello team, this is documentation about Hijra backoffice project.
 
