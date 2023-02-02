@@ -49,6 +49,11 @@ Deployment in salman backoffice we use via github actions or can do manually wit
 * Via github actions you can read in this [document](https://alamisharia.atlassian.net/wiki/spaces/ENG/pages/125501655/Deploy+Preview)
 * Via manual you can read in this [document](https://alamisharia.atlassian.net/wiki/spaces/ENG/pages/108068941/Deployment+Use+Caprover)
 
+## Release
+Please read our guideline for release salman backoffice
+- [Staging](Release-Staging.md)
+- [Production](Release-Production.md)
+
 ## Tools Development
 
 * [Next Js v13.1.6](https://nextjs.org/docs/getting-started) - The web framework used
