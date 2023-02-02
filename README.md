@@ -22,10 +22,19 @@ $ yarn dev
 ```
 
 ## Contributing
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. 
-
+When contributing to this repository, please first have an access to hijra-backoffice repositories before making a change. 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
+
+### Development in local
+
+1. Checkout to main branch
+2. Run `git checkout -b <your branch task>`
+3. Then develop your task in your local branch
+4. After development done, commit (use semantic commit) and push your code to repository
+
+### Make Pull Request 
+
+1. Go to PR [page](https://github.com/alami-group/hijra-backoffice/compare)
 
 
 ## Deployment
