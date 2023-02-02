@@ -8,11 +8,12 @@
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
-[![CI](https://github.com/alami-group/hijra-backoffice/actions/workflows/deploy-dev.yml/badge.svg)](https://github.com/alami-group/hijra-backoffice/actions/workflows/deploy-dev.yml) [![Deploy](https://github.com/alami-group/hijra-backoffice/actions/workflows/build-release-staging.yml/badge.svg)](https://github.com/alami-group/hijra-backoffice/actions/workflows/build-release-staging.yml)
+[![CI](https://github.com/alami-group/hijra-backoffice/actions/workflows/test.yml.svg)](https://github.com/alami-group/hijra-backoffice/actions/workflows/test.yml) 
+[![Deploy](https://github.com/alami-group/hijra-backoffice/actions/workflows/build-release-production.yml/badge.svg)](https://github.com/alami-group/hijra-backoffice/actions/workflows/build-release-production.yml)
 
 Hello team, this is documentation about Hijra backoffice project.
 
-### Prerequisites
+## Prerequisites
 What things you need to install the software and how to install them. In this case you must have Node Js and Volta, then you should request env dev/staging then copy value that env to your local env. Please chat in channel `#hijra-frontend` to get .env for development and staging 
 
 ## Getting Started
@@ -40,7 +41,7 @@ yarn dev
 Finally you can access http://localhost:3031 to see salman backoffice
 
 ## Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to this repository.
+Please read Contributin.md for details on our code of conduct, and the process for submitting pull requests to this repository.
 
 ## Deployment
 
