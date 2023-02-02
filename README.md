@@ -8,6 +8,8 @@
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
+[![CI](https://github.com/alami-group/hijra-backoffice/actions/workflows/deploy-dev.yml/badge.svg)](https://github.com/alami-group/hijra-backoffice/actions/workflows/deploy-dev.yml) [![Deploy](https://github.com/alami-group/hijra-backoffice/actions/workflows/build-release-staging.yml/badge.svg)](https://github.com/alami-group/hijra-backoffice/actions/workflows/build-release-staging.yml)
+
 Hello team, this is documentation about Hijra backoffice project.
 
 ### Prerequisites
