@@ -11,7 +11,6 @@ What things you need to install the software and how to install them. In this ca
 ```
 copy .env.example to .env
 ```
-
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
@@ -21,6 +20,7 @@ $ yarn install or yarn
 $ copy .env.example to .env
 $ yarn dev
 ```
+
 ## Deployment
 
 Deployment in salman backoffice we use via github actions or can do manually with caprover.
