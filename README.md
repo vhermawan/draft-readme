@@ -1,5 +1,13 @@
 # Hijra Backoffice.
 
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-blue.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
 Hello team, this is documentation about Hijra backoffice project.
 
 ### Prerequisites
@@ -13,15 +21,24 @@ First clone this repository
 git clone https://github.com/alami-group/hijra-backoffice
 ```
 
+Copy file .env.example to .env
+```bash
+Paste the env that you get from channel #hijra-frontend
+```
+
 Then install dependencies use yarn in your local machine
 ```bash
 yarn install or yarn
 ```
 
-## Contributing
-When contributing to this repository, please first have an access to hijra-backoffice repositories before making a change. 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+Run development server
+```bash
+yarn dev
+```
+Finally you can access http://localhost:3031 to see salman backoffice
 
+## Contributing
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to this repository.
 
 ## Deployment
 
@@ -30,7 +47,7 @@ Deployment in salman backoffice we use via github actions or can do manually wit
 * Via github actions you can read in this [document](https://alamisharia.atlassian.net/wiki/spaces/ENG/pages/125501655/Deploy+Preview)
 * Via manual you can read in this [document](https://alamisharia.atlassian.net/wiki/spaces/ENG/pages/108068941/Deployment+Use+Caprover)
 
-## Built With
+## Tools Development
 
 * [Next Js v13.1.6](https://nextjs.org/docs/getting-started) - The web framework used
 * [![Node Js](https://badge.fury.io/js/node.svg)](https://badge.fury.io/js/node) - Dependency Management
