@@ -2,39 +2,25 @@
 
 Hello team, this is documentation about Hijra backoffice project.
 
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
-What things you need to install the software and how to install them. In this case you must have Node Js and Volta, then you should request env dev/staging then copy value that env to your local env.
+What things you need to install the software and how to install them. In this case you must have Node Js and Volta, then you should request env dev/staging then copy value that env to your local env. Please chat in channel `#hijra-frontend` to get .env for development and staging 
 
+## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. To develop salman backoffice in locally, please follow this step below.
+
+First clone this repository
+```bash
+git clone https://github.com/alami-group/hijra-backoffice
 ```
-copy .env.example to .env
-```
-### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-```jsx
-$ yarn install or yarn
-$ copy .env.example to .env
-$ yarn dev
+Then install dependencies use yarn in your local machine
+```bash
+yarn install or yarn
 ```
 
 ## Contributing
 When contributing to this repository, please first have an access to hijra-backoffice repositories before making a change. 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
-
-### Development in local
-
-1. Checkout to main branch
-2. Run `git checkout -b <your branch task>`
-3. Then develop your task in your local branch
-4. After development done, commit (use semantic commit) and push your code to repository
-
-### Make Pull Request 
-
-1. Go to PR [page](https://github.com/alami-group/hijra-backoffice/compare)
 
 
 ## Deployment
